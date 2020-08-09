@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Instalar Tema</title>
-      <link>https://JaviAlmanzar.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://JaviAlmanzar.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
       <title>Configuración</title>
       <link>https://JaviAlmanzar.github.io/docs/configuracion/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -57,7 +48,7 @@
     </item>
     
     <item>
-      <title>Avance contrucción</title>
+      <title>Avance construcción</title>
       <link>https://JaviAlmanzar.github.io/docs/avance-construccion-parque/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
